@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="SpecFlow_and_Selenium_Mini_Project.SwagLabs_Website">
+    <Position X="4" Y="0.5" Width="3.75" />
+    <AssociationLine Name="SwagLabs_SigninPage" Type="SpecFlow_and_Selenium_Mini_Project.SwagLabs_SigninPage">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.682" Y="0.102" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="SwagLabs_AllitemsPage" Type="SpecFlow_and_Selenium_Mini_Project.SwagLabs_AllitemsPage" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.562" Y="2.247" />
+        <Point X="4.562" Y="3.043" />
+        <Point X="4.562" Y="3.043" />
+        <Point X="4.562" Y="3.75" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.806" Y="0.133" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="SwagLabs_CheckoutPage" Type="SpecFlow_and_Selenium_Mini_Project.SwagLabs_CheckoutPage" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.75" Y="1.374" />
+        <Point X="8.073" Y="1.374" />
+        <Point X="8.073" Y="3.094" />
+        <Point X="10.875" Y="3.094" />
+        <Point X="10.875" Y="3.75" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.867" Y="0.131" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAEAAAAQAAAAAAAAAAAAAgAAAAAAAAAAAAI=</HashCode>
+      <FileName>lib\SwagLabs_Website.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="SwagLabs_SigninPage" />
+      <Property Name="SwagLabs_AllitemsPage" />
+      <Property Name="SwagLabs_CheckoutPage" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SpecFlow_and_Selenium_Mini_Project.SwagLabs_AllitemsPage">
+    <Position X="4" Y="3.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAAACAAABAAAAAAAAAAEAAAAAAAAAAAEEBCAAA=</HashCode>
+      <FileName>lib\pages\SwagLabs_AllitemsPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpecFlow_and_Selenium_Mini_Project.SwagLabs_SigninPage">
+    <Position X="7.25" Y="3.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAFQAAAAAAQChAAAAAAAAAAAIAAAAAQAAIAAAAAAgA=</HashCode>
+      <FileName>lib\pages\SwagLabs_SigninPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpecFlow_and_Selenium_Mini_Project.SeleniumDriverConfig">
+    <Position X="8.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAEAAAAAAAAAAAAAAAAAABgAACAAAAAAAAAAA=</HashCode>
+      <FileName>lib\driver_config\SeleniumDriverConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpecFlow_and_Selenium_Mini_Project.SwagLabs_CheckoutPage">
+    <Position X="10.5" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAIAAAAABAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>lib\pages\SwagLabs_CheckoutPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpecFlow_and_Selenium_Mini_Project.AppConfigReader">
+    <Position X="11.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>AppConfigReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

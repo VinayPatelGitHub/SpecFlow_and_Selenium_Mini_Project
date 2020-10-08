@@ -121,6 +121,7 @@
     <Compile Include="BDD\SwagLabs_AllitemsPageSteps.cs" />
     <Compile Include="BDD\SwagLabs_SigninPageSteps.cs" />
     <Compile Include="lib\driver_config\SeleniumDriverConfig.cs" />
+    <Compile Include="lib\pages\SwagLabs_CheckoutPage.cs" />
     <Compile Include="lib\pages\SwagLabs_AllitemsPage.cs" />
     <Compile Include="lib\pages\SwagLabs_SigninPage.cs" />
     <Compile Include="lib\SwagLabs_Website.cs" />
@@ -130,7 +131,7 @@
     <None Include="App.config" />
     <None Include="BDD\SwagLabs_AllitemsPage.feature" />
     <None Include="BDD\SwagLabs_SigninPage.feature" />
-    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram.cd" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup />

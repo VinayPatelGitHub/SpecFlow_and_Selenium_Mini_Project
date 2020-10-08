@@ -1,1 +1,2 @@
-# SpecFlow_and_Selenium_Mini_Project
+# SpecFlow and Selenium Mini Project
+
