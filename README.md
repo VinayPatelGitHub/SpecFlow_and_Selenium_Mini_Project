@@ -12,11 +12,11 @@ The challenge in this project is to create a automated testing framework of a we
 
 ### Class Diagrams and Solution Layout
 
-![alt class diagrams and solution layout](https://github.com/VinayPatelGitHub/SpecFlowandSelenium_MiniProject/blob/main/ProjectImages/Class Diagrams.png)
+![alt class diagrams and solution layout](https://github.com/VinayPatelGitHub/SpecFlowandSelenium_MiniProject/blob/main/ProjectImages/Class%20Diagrams.png)
 
 ### Test Results
 
-![alt test results](https://github.com/VinayPatelGitHub/SpecFlowandSelenium_MiniProject/blob/main/ProjectImages/Test Results.png)
+![alt test results](https://github.com/VinayPatelGitHub/SpecFlowandSelenium_MiniProject/blob/main/ProjectImages/Test%20Results.png)
 
 ### Project Review
 
